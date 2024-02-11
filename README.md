@@ -3,8 +3,6 @@
 
 **JavChavezR/JavChavezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: volume control in natural gas.
 - 🌱 I’m currently learning about: SCADA systems.
 - 👯 I’m looking to collaborate: on oil & gas industries, also the manufacturing industries catches my attention.
