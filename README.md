@@ -1,7 +1,5 @@
+
 ### Hi there 👋
-
-
-**JavChavezR/JavChavezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on: volume control in natural gas.
 - 🌱 I’m currently learning about: SCADA systems.
@@ -12,3 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: One song in loop for indeterminate time -> Javi cooking good code.
 
+![This is me](https://github.com/JavChavezR/JavChavezR/blob/b077865e1bcbc3caf87866f28a8dc113291cfa94/JaviOnPeak.jpg)
