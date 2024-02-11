@@ -10,4 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: One song in loop for indeterminate time -> Javi cooking good code.
 
-![This is me](https://github.com/JavChavezR/JavChavezR/blob/b077865e1bcbc3caf87866f28a8dc113291cfa94/JaviOnPeak.jpg)
+![This is me](https://github.com/JavChavezR/Docs/blob/2baec85b76c1f46da8ff6fa7d4c3f12e653048ce/JaviOnPeak.jpg)
